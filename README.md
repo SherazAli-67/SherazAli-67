@@ -43,17 +43,17 @@ Specializing in complex state management, clean architecture, and seamless nativ
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🌍 **100,000+ users** downloaded [Konushan](https://play.google.com/store/apps/details?id=com.aithings.konushan), a language exchange Flutter app I built from scratch and shipped to Google Play
-- 🎾 **[Hitch](https://apps.apple.com/us/app/hitch-player-finder/id6670320911)**, a sports matchmaking platform, is live on the App Store with a **4.8★ rating** across 83 reviews
-- 📱 **15+ apps** live on the App Store and Play Store
-- 💳 Proven expertise in **Firebase, REST APIs, Google Maps SDK, Stripe, Push Notifications,** and integrating Subscription & in-app purchases
-- 🌐 Open to **full-time remote roles** and freelance projects
+- **100,000+ users** downloaded [Konushan](https://play.google.com/store/apps/details?id=com.aithings.konushan), a language exchange Flutter app I built from scratch and shipped to Google Play
+- **[Hitch](https://apps.apple.com/us/app/hitch-player-finder/id6670320911)**, a sports matchmaking platform, is live on the App Store with a **4.8★ rating** across 83 reviews
+- **15+ apps** live on the App Store and Play Store
+- Proven expertise in **Firebase, REST APIs, Google Maps SDK, Stripe, Push Notifications,** and integrating Subscription & in-app purchases
+- Open to **full-time remote roles** and freelance projects
 
 ---
 
-## 🛠️ Core Competencies
+## Core Competencies
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -64,7 +64,7 @@ Specializing in complex state management, clean architecture, and seamless nativ
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -111,7 +111,7 @@ Specializing in complex state management, clean architecture, and seamless nativ
 
 ---
 
-## 🎨 UI / Open Source
+## UI / Open Source
 
 <table>
   <tr>
@@ -169,7 +169,7 @@ Specializing in complex state management, clean architecture, and seamless nativ
 
 ---
 
-## 📊 Activity Metrics
+## Activity Metrics
 
 <div align="center">
 
