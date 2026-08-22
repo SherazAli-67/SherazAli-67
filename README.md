@@ -1,19 +1,27 @@
-<div align="center">
-
 ```dart
-class SherazAli extends FlutterDeveloper {
-  @override
-  String get tagline => "Crafting pixel-perfect cross-platform apps";
+import 'package:flutter/material.dart';
+
+void main() {
+  runApp(const MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
 
   @override
-  List<String> get stack => ["Flutter", "Dart", "Firebase", "AI APIs"];
-
-  @override
-  bool get availableForOpportunities => true;
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Sheraz Ali',
+      theme: ThemeData.dark(),
+      home: const DeveloperDashboard(),
+    );
+  }
 }
 ```
 
 <br/>
+
+<div align="center">
 
 ## Sheraz Ali — Flutter & Dart Developer
 
@@ -37,8 +45,8 @@ Specializing in complex state management, clean architecture, and seamless nativ
 
 ## 🧑‍💻 About Me
 
-- 🌍 **100,000+ users** downloaded [Konushan](https://github.com/SherazAli-67), a language exchange Flutter app I built from scratch and shipped to Google Play
-- 🎾 **[Hitch](https://github.com/SherazAli-67)**, a sports matchmaking platform, is live on the App Store with a **4.8★ rating** across 83 reviews
+- 🌍 **100,000+ users** downloaded [Konushan](https://play.google.com/store/apps/details?id=com.aithings.konushan), a language exchange Flutter app I built from scratch and shipped to Google Play
+- 🎾 **[Hitch](https://apps.apple.com/us/app/hitch-player-finder/id6670320911)**, a sports matchmaking platform, is live on the App Store with a **4.8★ rating** across 83 reviews
 - 📱 **15+ apps** live on the App Store and Play Store
 - 💳 Proven expertise in **Firebase, REST APIs, Google Maps SDK, Stripe, Push Notifications,** and integrating Subscription & in-app purchases
 - 🌐 Open to **full-time remote roles** and freelance projects
@@ -61,40 +69,41 @@ Specializing in complex state management, clean architecture, and seamless nativ
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SherazAli-67">MarketSAI</a> &nbsp;↗</h3>
-      <p>A comprehensive AI-driven marketplace application built with Flutter. Features complex state management, real-time data syncing, and sophisticated UI animations.</p>
+      <h3><a href="https://play.google.com/store/apps/details?id=com.aithings.konushan&pcampaignid=web_share">Konushan: Language Exchange AI</a> &nbsp;↗</h3>
+      <p>A language exchange app for real speaking practice — chat with native speakers, join community rooms, and get pronunciation feedback from a built-in AI tutor. 100K+ downloads with a 4.7★ rating on Google Play.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI_Integration-412991?style=flat-square&logoColor=white"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SherazAli-67">ArabVet</a> &nbsp;↗</h3>
-      <p>Veterinary services platform connecting pet owners with vets. Implements location-based services, real-time scheduling, and multi-role auth flows.</p>
+      <h3><a href="https://apps.apple.com/us/app/hitch-player-finder/id6670320911">Doubles Partners | Hitch</a> &nbsp;↗</h3>
+      <p>A sports matchmaking platform for finding pickleball, padel, and tennis partners nearby, with AI video-based skill analysis and in-app court booking. Live on the App Store with a 4.8★ rating across 83 reviews.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=flat-square&logo=google-maps&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/In--App_Purchases-635BFF?style=flat-square&logoColor=white"/>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SherazAli-67">Hitch</a> &nbsp;↗</h3>
-      <p>Sports matchmaking platform live on the App Store with a 4.8★ rating. Built with high-performance native channel integrations for real-time opponent matching.</p>
+      <h3><a href="https://apps.apple.com/us/app/locatus-rental-properties/id6757720396">Locatus: Rental Properties</a> &nbsp;↗</h3>
+      <p>A tenant-landlord rental platform for browsing property listings, scheduling tours, and messaging landlords directly, with built-in tools for landlords to manage listings and inquiries.</p>
       <p>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=flat-square&logo=google-maps&logoColor=white"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SherazAli-67">Custom T-Shirt Designer</a> &nbsp;↗</h3>
-      <p>Interactive e-commerce tool allowing users to design custom apparel using an intuitive drag-and-drop canvas built with Flutter Web.</p>
+      <h3><a href="https://play.google.com/store/apps/details?id=com.taggargroup.arabvet&pcampaignid=web_share">ArabVet</a> &nbsp;↗</h3>
+      <p>A veterinary consultation app connecting Arabic-speaking pet owners with licensed vets via text and video chat, with personalized pet health profiles and consultation history.</p>
       <p>
-        <img src="https://img.shields.io/badge/Flutter_Web-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Canvas_API-FF6B35?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Video_Chat-099DFD?style=flat-square&logoColor=white"/>
       </p>
     </td>
   </tr>
